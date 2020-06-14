@@ -1,0 +1,46 @@
+.professor-student-profile-col1{
+  background: aliceblue;
+  border: 2px solid!important;
+  border-radius: 10px;
+  border-color: azure;
+  height: 100%;
+}
+.professor-student-profile-mai-row{
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  .react-bootstrap-table-pagination{
+    margin-left: 0px;
+    margin-top: -15px !important;
+    background-color: ghostwhite;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    border-top: 0px solid !important;
+    .col-lg-6{
+      padding-left: 0px;
+    }
+    .col-md-6{
+      padding-left: 0px;
+    }
+    .col-xs-6{
+      padding-left: 0px;
+    }
+    .col-sm-6{
+      padding-left: 0px;
+    }
+    .react-bootstrap-table-pagination-list{
+      padding-right: 0px;
+    }
+    .react-bootstrap-table-page-btns-ul{
+      margin-bottom: 0px;
+    }
+    .search-label{
+      margin-top: 10px;
+    }
+  }
+}
+
+.adaugati-nota-button{
+  margin-right: 5px;
+}
